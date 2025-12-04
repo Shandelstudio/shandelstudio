@@ -3,27 +3,27 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 title = "Shandel Studio"
-contentDir = "content/en"
+contentDir = "content"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/shandel-ico.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "Copy, _right?_ 🧐"
 
 [params.author]
-  name = "Shandel Support"
+  name = "Shandel Studio"
   email = "shandelstudio+info@gmail.com"
-  image = "img/background.jpg"
+  image = "img/shandel-logo.png"
   imageQuality = 96
   headline = "Support Account"
-  bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+  # bio = "A little bit about you"
+  links = [
+    { email = "mailto:shandelstudio+info@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -74,4 +74,4 @@ contentDir = "content/en"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+  ]

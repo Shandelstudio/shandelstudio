@@ -1,1 +1,0 @@
-Haven't passion to write

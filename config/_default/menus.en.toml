@@ -1,24 +1,20 @@
 [[main]]
-name = "Blog"
-pageRef = "posts"
+name = "Home"
+pageRef = "index"
+weight = 1
+
+[[main]]
+name = "Games"
+pageRef = "games"
 weight = 10
 
 [[main]]
-name = "Categories"
-pageRef = "categories"
-weight = 20
+  name = "Brick Gigil"
+  parent = "Games"
+  pageRef = "brick-gigil"
+  weight = 11
 
 [[main]]
-name = "Tags"
-pageRef = "tags"
-weight = 30
-
-[[footer]]
-name = "Tags"
-pageRef = "tags"
-weight = 10
-
-[[footer]]
-name = "Categories"
-pageRef = "categories"
+name = "About us"
+pageRef = "about"
 weight = 20
