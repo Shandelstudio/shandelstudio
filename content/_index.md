@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Shandel! :video_game:"
+title: "Welcome to Shandel! 🕹"
 description: "Shandel is a creative gaming studio crafting unique experiences."
 ---
 
